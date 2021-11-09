@@ -1,0 +1,17 @@
+// Base embed styles
+// -------------------------------------------------------------------
+// Make stuff responsive
+img, canvas, iframe, video, svg { max-width: 100%; }
+
+.logo { width: 385px; }
+
+.info-image {
+    @media screen and (min-width: $breakpoint--md) {
+        box-shadow: $shadow;
+    }
+}
+
+.icon {
+    height: 35px;
+    width: 35px;
+}

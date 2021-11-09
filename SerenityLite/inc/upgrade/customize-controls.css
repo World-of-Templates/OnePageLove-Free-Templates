@@ -1,0 +1,11 @@
+#customize-theme-controls .control-section-serenity-lite .accordion-section-title {
+    border: 2px dashed #0085ba;
+    line-height: 26px;
+}
+#customize-theme-controls .control-section-serenity-lite .accordion-section-subtitle {
+    margin:1em;
+}
+.rtl .control-section-serenity-lite .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
