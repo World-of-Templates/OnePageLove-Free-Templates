@@ -1,0 +1,22 @@
+#home {
+	background-image: url('../img/golden.jpg');
+}
+.btn {
+	background-color: #FF9D61;
+	border: 1px solid #FF9D61;
+}
+.btn:hover,
+.btn:active,
+.btn:focus {
+	background-color: #D77D48;
+	border: 1px solid #D77D48;
+}
+.social-links li a:hover {
+	background:#FF9D61;
+	border-color: #FF9D61;
+}	
+.myform .form-control:focus,
+.myform textarea.inputError:focus,
+.input-group .form-control:focus {
+	border: 2px solid #FF9D61;
+}	

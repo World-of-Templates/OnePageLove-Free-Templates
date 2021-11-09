@@ -1,0 +1,43 @@
+<wpml-config>
+    <admin-texts>
+        <key name="integral-theme-options">
+            <key name="hero-title" />
+            <key name="hero-subtitle" />
+            <key name="hero-btn1-text" />
+            <key name="hero-btn2-text" />
+            <key name="work-title" />
+            <key name="work-subtitle" />
+            <key name="project-single-title" />
+            <key name="project-grid-maintitle" />
+            <key name="clients-maintitle" />
+            <key name="testi-title" />
+            <key name="services-title" />
+            <key name="calltoaction-title" />
+            <key name="calltoaction-btn1-text" />
+            <key name="about-title" />
+            <key name="skills-title" />
+            <key name="skill1-name" />
+            <key name="skill2-name" />
+            <key name="skill3-name" />
+            <key name="skill4-name" />
+            <key name="skill5-name" />
+            <key name="skill6-name" />
+            <key name="team-title" />
+            <key name="blog-title" />
+            <key name="newsletter-title" />
+            <key name="contact-title" />
+            <key name="contactinfo-title" />
+            <key name="contact-address" />
+            <key name="hero-tagline" />
+            <key name="work-subtitle" />
+            <key name="services-subtitle" />
+            <key name="calltoaction-text" />
+            <key name="about-subtitle" />
+            <key name="blog-below-text" />
+            <key name="newsletter-text" />
+            <key name="contact-subtitle" />
+            <key name="copyright-text" />
+            <key name="blog-below-text" />
+        </key> 
+    </admin-texts>
+</wpml-config>

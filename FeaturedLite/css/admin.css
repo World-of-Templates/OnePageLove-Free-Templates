@@ -1,0 +1,133 @@
+.theme_info_right {
+    max-width: 500px;
+	width:100%;
+}
+.rcp {
+    background: #fff;
+    border-left: 4px solid #f8800c;
+    display: block;
+    margin-bottom: 15px;
+    margin-right: 20px;
+   padding: 30px;
+    position: relative;
+    -webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+    -moz-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+}
+.freeevspro-img {
+    margin-top: 50px;
+}
+.rcp img {
+    float: left;
+    display: block;
+    margin-right: 30px;
+	width:10%;
+}
+p.rcp-detail {
+    display: block;
+	}
+.nav-tab-wrapper .update-plugins{
+    display: inline-block;
+    background-color: #d54e21;
+    color: #fff;
+    font-size: 9px;
+    line-height: 17px;
+    font-weight: 600;
+    margin: 1px 0 0 2px;
+    vertical-align: top;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    z-index: 26;
+  }
+
+.nav-tab-wrapper span.update-count {
+    display: block;
+       padding: 0 6px;
+}
+.svg .wp-badge{
+background-image: url('../images/icon.png');
+}
+
+#child-themes.ti-about-page-tab-pane .child-theme{
+width:29%;
+float:left;
+margin-right:6.5%;
+margin-top:4%;
+margin-bottom:4%;
+position:relative
+}
+
+#child-themes.ti-about-page-tab-pane .child-theme:nth-of-type(3n+3){
+margin-right:0%;
+}
+#child-themes.ti-about-page-tab-pane .theme-screenshot{
+padding-bottom:20px;
+}
+#child-themes.ti-about-page-tab-pane .child-theme-author{
+display:none;
+}
+
+#child-themes.ti-about-page-tab-pane h3.child-theme-name{
+margin-bottom:10px;
+margin-top: 0px;
+font-size: 16px;
+left:0;
+right:0;
+text-align:center;
+z-index: -1;
+}
+.wp-core-ui .button,
+.wp-core-ui .button-primary,
+.wp-core-ui .button-secondary {
+    font-size: 11px;
+}
+
+@media (min-width: 768px){
+.theme_link {
+    width: 18%;
+    display: inline-block;
+    float: left;
+   padding: 1%;
+}
+}
+@media (max-width: 768px){
+#child-themes.ti-about-page-tab-pane .child-theme{
+width:40%;
+float:left;
+margin-right:5%;
+margin-top:4%;
+margin-bottom:4%;
+position:relative
+}
+#child-themes.ti-about-page-tab-pane .child-theme:nth-of-type(3n+3){
+margin-right:5%;
+}
+#child-themes.ti-about-page-tab-pane .child-theme:nth-of-type(2n+2){
+margin-right:0%;
+}
+.about-wrap .nav-tab {
+    font-size: 12px;
+}
+}
+
+@media (max-width: 550px){
+#child-themes.ti-about-page-tab-pane{
+    max-width: 300px;
+    margin: 0 auto; 
+}   
+#child-themes.ti-about-page-tab-pane .child-theme{
+width:100%;
+float:none;
+margin-right:0%;
+margin-top:4%;
+margin-bottom:4%;
+position:relative
+}
+#child-themes.ti-about-page-tab-pane .child-theme:nth-of-type(3n+3){
+margin-right:0%;
+}
+#child-themes.ti-about-page-tab-pane .child-theme:nth-of-type(2n+2){
+margin-right:0%;
+}
+
+}

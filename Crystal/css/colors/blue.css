@@ -1,0 +1,114 @@
+a{
+	color: #1AB7D8;
+}
+a:hover{
+	color: #1AB7D8;
+}
+.btn-common{
+	border-color: #1AB7D8;
+    background-color: #1AB7D8;
+}
+.btn-common:hover{
+	border-color: #1AB7D8;
+    color: #1AB7D8;
+}
+.btn-border:hover{
+	background-color: #1AB7D8;
+}
+#subscribe .sub_btn:hover{
+	background: #33aec8;
+}
+.section-header .section-title span{
+	color: #1AB7D8;
+}
+.section-header .lines{
+	border-color: #1AB7D8; 
+}
+.section-header .lines:before{
+	background: #1AB7D8;
+}
+.overlay{
+	background: #1AB7D8;
+}
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.active::before, .navbar-light .navbar-nav .nav-link.open, .navbar-light .navbar-nav .open > .nav-link{
+	color: #1AB7D8;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:hover:before{
+	color: #1AB7D8;
+}
+.navbar-light .navbar-nav .nav-link:before{
+	background: #1AB7D8;
+}
+.menu-wrap .navbar-nav li .active,
+.menu-wrap .navbar-nav li .active::before{
+	color: #1AB7D8;
+}
+.menu-wrap a:hover, .menu-wrap a:focus{
+	color: #1AB7D8;
+}
+.icon-list a::before {
+    background: #1AB7D8;
+}
+#about .about-boxes .icon{
+	border-color: #1AB7D8;
+}
+#about .about-boxes .icon i{
+	color: #1AB7D8;
+}
+.item-boxes .icon{
+	border-color: #1AB7D8;
+}
+.item-boxes .icon i{
+	color: #1AB7D8;
+}
+#features .box-item .icon{
+	border-color: #1AB7D8;
+}
+#features .box-item .icon i{
+	color: #1AB7D8;
+}
+#features .box-item:hover .icon{
+	background: #1AB7D8;
+}
+.video-promo .video-promo-content .video-popup:hover{
+	background: #1AB7D8;
+	border-color: #1AB7D8;
+}
+.shot-item .overlay:before, 
+.shot-item .overlay:after{
+	background: #1AB7D8;
+}
+.controls .mixitup-control-active{
+	color: #1AB7D8!important;
+	border-color: #1AB7D8;
+}
+.owl-theme .owl-controls .owl-page span{
+	background: #1AB7D8;
+}
+.pricing-table .icon{
+	color: #1AB7D8;
+	border-color: #1AB7D8;
+}
+.pricing-table .pricing-details span{
+	color: #1AB7D8;
+}
+#blog .blog-item-img:before {
+	background: rgba(26, 183, 216, 0.7);
+}
+.form-control:focus{
+	box-shadow: 0 0 2px #1AB7D8;
+}
+#subscribe .sub_btn{
+	background: #1AB7D8;
+}
+#contact:before{
+	background: #1AB7D8;
+}
+.back-to-top i{
+	background-color: #1AB7D8;
+}
+
+.tp-bullets.preview4 .bullet:hover, .tp-bullets.preview4 .bullet.selected{
+	border-color: #1AB7D8!important;
+}
+

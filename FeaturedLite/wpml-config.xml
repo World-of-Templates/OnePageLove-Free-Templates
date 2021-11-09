@@ -1,0 +1,39 @@
+<wpml-config>
+    <admin-texts>
+		<key name='theme_mods_featuredlite'>
+			<key name='copyright_textbox' />
+			<key name='parallax_heading' />
+			<key name='parallax_subheading' />
+			<key name='parallax_button_text' />
+			<key name='first_parallax_heading' />
+			<key name='first_parallax_desc' />
+			<key name='second_parallax_heading' />
+			<key name='second_parallax_desc' />
+			<key name='third_parallax_heading' />
+			<key name='third_parallax_desc' />
+			<key name='hb_heading' />
+			<key name='hb_button_text' />
+			<key name='hb_button_link' />
+			<key name='hb_heading_bottom' />
+			<key name='hb_button_text_bottom' />
+			<key name='hb_button_link_bottom' />
+			<key name='our_services_heading' />
+			<key name='our_services_subheading' />
+			<key name='about_us_heading' />
+			<key name='about_us_subheading' />
+			<key name='our_team_heading' />
+			<key name='our_team_subheading' />
+			<key name='woo_head_' />
+			<key name='woo_desc_' />
+			<key name='blog_head_' />
+			<key name='blog_desc_' />
+			<key name='testimonial_heading' />
+			<key name='testimonial_subheading' />
+			<key name='our_cnt_heading' />
+			<key name='our_cnt_subheading' />
+			<key name='cnt_tel' />
+			<key name='cnt_add' />
+			<key name='cnt_mail' />	
+		</key>
+    </admin-texts>
+</wpml-config>

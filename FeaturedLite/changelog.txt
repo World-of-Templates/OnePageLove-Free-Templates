@@ -1,0 +1,108 @@
+= 1.3.4 =
+* WooCommerce number of products issue resolved.
+
+= 1.3.3 =
+* FontAwesome updated.
+* Keyborad Navigation.
+
+= 1.3.2 =
+* Icon Issue resolved.
+
+= 1.3.1 =
+* Animation update.
+
+= 1.3.0 =
+* Spelling Correction.
+* GooglePlus icon removed.
+* Demo Import Added
+* translation file added
+
+= 1.2.9 =
+* Bug Fixed
+
+= 1.2.8 =
+* Spelling Correction.
+* Custom Logo issue fixed.
+* Styling improved.
+
+= 1.2.7 =
+* Loading issue fixed at Elementor panel.
+
+= 1.2.6 =
+* compatible with latest wordpress.
+
+= 1.2.5 =
+* FontAwesome Updated
+
+= 1.2.2 =
+* Customizer default popup has been removed.
+
+= 1.2.1 =
+* FontAwesome Updated.
+
+= 1.2.0 =
+* screenshot changed.
+
+= 1.1.9 =
+* Css improved.
+
+= 1.1.8 =
+* Footer Social icon issue fixed
+
+= 1.1.7=
+* Fontawsome 5.1.1 updated.
+
+= 1.1.6=
+* commment checkbox css improved.
+* parallax issue fixed in chrome.
+
+= 1.1.5=
+* style improved.
+
+= 1.1.4=
+* Fontawesome Updated.
+
+= 1.1.3=
+* Style Improved.
+
+= 1.1.2=
+* one click home page setup bug fixed.
+
+= 1.1.1=
+* one click home page setup.
+
+= 1.1.0=
+* Customizer popup option added.
+
+= 1.0.9 =
+* scrolling issue fixed.
+
+= 1.0.8 =
+* js issue fixed.
+* All issue fixed.
+
+= Version: 1.0.7 =
+* Style Improve.
+
+= Version: 1.0.6 =
+* escping issue fixed.
+* reame file issue fixed.
+
+= Version: 1.0.5 =
+1. Page serach authr name,date and category issue fixed.
+2. header color and background color issue fixed.
+
+= Version: 1.0.4 =
+1. Customizer background feature added.
+2. Comment responsive style fixed.
+3. Header image and color issue fixed.
+
+= Version: 1.0.3 =
+1. Style Improved.
+2. Section order changed.
+
+= Version: 1.0.2 =
+1. css style Improved.
+2. error fixed.
+
+Version: 1.0.0 =

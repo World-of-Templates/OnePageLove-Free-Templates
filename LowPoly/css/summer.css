@@ -1,0 +1,24 @@
+#home {
+	background-image: url('../img/summer.jpg');
+}	
+.btn {
+	background-color: #FBE35B;
+	border: 1px solid #FBE35B;
+	color: #262721;
+}
+.btn:hover,
+.btn:active,
+.btn:focus {
+	background-color: #D4BE46;
+	border: 1px solid #D4BE46;
+	color: #262721;
+}
+.social-links li a:hover {
+	background:#FBE35B;
+	border-color: #FBE35B;
+}	
+.myform .form-control:focus,
+.myform textarea.inputError:focus,
+.input-group .form-control:focus {
+	border: 2px solid #FBE35B;
+}

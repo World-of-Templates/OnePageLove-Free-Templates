@@ -1,0 +1,117 @@
+a{
+	color: #4676fa;
+}
+a:hover{
+	color: #4676fa;
+}
+.btn-common{
+	border-color: #4676fa;
+    background-color: #4676fa;
+}
+.btn-common:hover{
+	border-color: #4676fa;
+    color: #4676fa;
+}
+.btn-border:hover{
+	background-color: #4676fa;
+}
+#subscribe .sub_btn:hover{
+	background: #2855d1;
+}
+.section-header .section-title span{
+	color: #4676fa;
+}
+.section-header .lines{
+	border-color: #4676fa; 
+}
+.section-header .lines:before{
+	background: #4676fa;
+}
+.overlay{
+	background: #4676fa;
+}
+#hero-area .overlay{
+	background: #4676fa;
+}
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.active::before, .navbar-light .navbar-nav .nav-link.open, .navbar-light .navbar-nav .open > .nav-link{
+	color: #4676fa;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:hover:before{
+	color: #4676fa;
+}
+.navbar-light .navbar-nav .nav-link:before{
+	background: #4676fa;
+}
+.menu-wrap .navbar-nav li .active,
+.menu-wrap .navbar-nav li .active::before{
+	color: #4676fa;
+}
+.menu-wrap a:hover, .menu-wrap a:focus{
+	color: #4676fa;
+}
+.icon-list a::before {
+    background: #4676fa;
+}
+#about .about-boxes .icon{
+	border-color: #4676fa;
+}
+#about .about-boxes .icon i{
+	color: #4676fa;
+}
+.item-boxes .icon{
+	border-color: #4676fa;
+}
+.item-boxes .icon i{
+	color: #4676fa;
+}
+#features .box-item .icon{
+	border-color: #4676fa;
+}
+#features .box-item .icon i{
+	color: #4676fa;
+}
+#features .box-item:hover .icon{
+	background: #4676fa;
+}
+.video-promo .video-promo-content .video-popup:hover{
+	background: #4676fa;
+	border-color: #4676fa;
+}
+.shot-item .overlay:before, 
+.shot-item .overlay:after{
+	background: #4676fa;
+}
+.controls .mixitup-control-active{
+	color: #4676fa!important;
+	border-color: #4676fa;
+}
+.owl-theme .owl-controls .owl-page span{
+	background: #4676fa;
+}
+.pricing-table .icon{
+	color: #4676fa;
+	border-color: #4676fa;
+}
+.pricing-table .pricing-details span{
+	color: #4676fa;
+}
+#blog .blog-item-img:before {
+	background: rgba(70, 118, 250, 0.7);
+}
+.form-control:focus{
+	box-shadow: 0 0 2px #4676fa;
+}
+#subscribe .sub_btn{
+	background: #4676fa;
+}
+#contact:before{
+	background: #4676fa;
+}
+.back-to-top i{
+	background-color: #4676fa;
+}
+
+.tp-bullets.preview4 .bullet:hover, .tp-bullets.preview4 .bullet.selected{
+	border-color: #4676fa!important;
+}
+

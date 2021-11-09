@@ -1,0 +1,37 @@
+<wpml-config>
+    <admin-texts>
+		<key name='theme_mods_oneline-lite'>
+                        <key name='first_slider_heading' />
+                        <key name='first_button_text' />
+                        <key name='first_slider_link' />
+                        <key name='first_button_link' />
+                        <key name='second_slider_heading' />
+                        <key name='second_slider_link' />
+                        <key name='second_button_link' />
+                        <key name='second_button_text' />
+                        <key name='third_slider_heading' />
+                        <key name='third_button_text' />
+                        <key name='third_slider_link' />
+                        <key name='third_button_link' />
+                        <key name='our_services_heading' />
+                        <key name='our_services_subheading' />
+                        <key name='ribbon_heading' />
+                        <key name='ribbon_button_text' />
+                        <key name='ribbon_button_link' />
+                        <key name='team_heading' />
+                        <key name='team_subheading' />
+                        <key name='blog_heading' />
+                        <key name='blog_subheading' />
+                        <key name='read_more_txt' />
+                        <key name='woo_heading' />
+                        <key name='woo_subheading' />
+                        <key name='contactus_heading' />
+                        <key name='contactus_subheading' />
+                        <key name='contactus_address_heading' />
+                        <key name='contactus_address' />
+                        <key name='woocommerce_demo_store_notice' />
+                        <key name='woocommerce_checkout_terms_and_conditions_checkbox_text' />
+			<key name='copyright_textbox' />	
+		</key>
+    </admin-texts>
+</wpml-config>

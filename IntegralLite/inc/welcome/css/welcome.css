@@ -1,0 +1,14 @@
+.theme-welcome {max-width:100%;}
+.theme-welcome h1 span {font-size: 0.3em;background-color: #e5e5e5;border: 1px solid #ccc;padding: 5px 10px;}
+.theme-welcome .wp-badge {background-image: url('../images/themely-logo.png');background-position:center center;background-size:64px auto;}
+.theme-welcome .info-tab-content .left {float:left;width:45%;margin-right:9%;}
+.theme-welcome .info-tab-content .right {float:left;width:45%;}
+.theme-welcome .info-tab-content .upgrade {border:2px dashed #0073aa;margin-top:2em;padding:0 1.5em 1.25em 2em;}
+.theme-welcome .info-tab-content .red {color:red;}
+.theme-welcome .info-tab-content .green {color:green;}
+.theme-welcome .info-tab-content .border-red {border:2px dashed red;padding:0 0.3em 0 0.3em;}
+.theme-welcome .info-tab-content .border-green {border:2px dashed green;padding:0 0.3em 0 0.3em;}
+.theme-welcome .nav-tab-wrapper .nav-tab {margin-bottom: 0;}
+.theme-welcome .nav-tab-wrapper .nav-tab a {text-decoration: none;color: initial;}
+.theme-welcome .nav-tab-wrapper .nav-tab-active {border-bottom:0;}
+.theme-welcome .theme-browser .theme .theme-name {text-align: left;}

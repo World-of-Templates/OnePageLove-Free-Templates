@@ -1,0 +1,24 @@
+#home {
+	background-image: url('../img/ocean.jpg');
+}	
+.btn {
+	background-color: #5DFDEC;
+	border: 1px solid #5DFDEC;
+	color: #262721;
+}
+.btn:hover,
+.btn:active,
+.btn:focus {
+	background-color: #47D7C0;
+	border: 1px solid #47D7C0;
+	color: #262721;
+}
+.social-links li a:hover {
+	background:#5DFDEC;
+	border-color: #5DFDEC;
+}	
+.myform .form-control:focus,
+.myform textarea.inputError:focus,
+.input-group .form-control:focus {
+	border: 2px solid #5DFDEC;
+}

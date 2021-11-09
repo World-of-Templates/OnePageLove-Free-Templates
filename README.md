@@ -97,6 +97,38 @@ PB Law | QB Wedding
 --- | ---
 [![PBLaw](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/PBLaw.png)](https://template.fusionsvisual.id/OPL/PBLaw) | [![QBWedding](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/QBWedding.png)](https://template.fusionsvisual.id/OPL/QBWedding)
 
-Frame |
---- |
-[![Frame](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/Frame.png)](https://template.fusionsvisual.id/OPL/Frame) | [![Dazzle](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/Dazzle.png)](https://template.fusionsvisual.id/OPL/Dazzle)
+Frame | FeaturedLite
+--- | ---
+[![Frame](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/Frame.png)](https://template.fusionsvisual.id/OPL/Frame) | [![FeaturedLite](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/FeaturedLite.png)](https://template.fusionsvisual.id/OPL/FeaturedLite)
+
+Justice | Namari
+--- | ---
+[![Justice](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/Justice.png)](https://template.fusionsvisual.id/OPL/Justice) | [![Namari](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/Namari.png)](https://template.fusionsvisual.id/OPL/Namari)
+
+Resto | Stage
+--- | ---
+[![Resto](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/Resto.png)](https://template.fusionsvisual.id/OPL/Resto) | [![Stage](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/Stage.png)](https://template.fusionsvisual.id/OPL/Stage)
+
+ParallelLite | Crystal
+--- | ---
+[![ParallelLite](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/ParallelLite.png)](https://template.fusionsvisual.id/OPL/ParallelLite) | [![Crystal](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/Crystal.png)](https://template.fusionsvisual.id/OPL/Crystal)
+
+Una | LowPoly
+--- | ---
+[![Una](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/Una.png)](https://template.fusionsvisual.id/OPL/Una) | [![LowPoly](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/LowPoly.png)](https://template.fusionsvisual.id/OPL/LowPoly/red.html)
+
+OnelineLite | Meetup
+--- | ---
+[![OnelineLite](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/OnelineLite.png)](https://template.fusionsvisual.id/OPL/OnelineLite) | [![Meetup](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/Meetup.png)](https://template.fusionsvisual.id/OPL/Meetup)
+
+MiniStudio | IntegralLite
+--- | ---
+[![MiniStudio](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/MiniStudio.png)](https://template.fusionsvisual.id/OPL/MiniStudio) | [![IntegralLite](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/IntegralLite.png)](https://template.fusionsvisual.id/OPL/IntegralLite)
+
+OnePress | PixovaLite
+--- | ---
+[![OnePress](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/OnePress.png)](https://template.fusionsvisual.id/OPL/OnePress) | [![PixovaLite](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/PixovaLite.png)](https://template.fusionsvisual.id/OPL/PixovaLite)
+
+Freelancer | DribbbleFolio
+--- | ---
+[![Freelancer](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/Freelancer.png)](https://template.fusionsvisual.id/OPL/Freelancer) | [![DribbbleFolio](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/DribbbleFolio.png)](https://template.fusionsvisual.id/OPL/DribbbleFolio)
