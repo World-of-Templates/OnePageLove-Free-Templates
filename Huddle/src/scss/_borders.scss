@@ -1,0 +1,58 @@
+// Page border
+// -------------------------------------------------------------------
+.page-border {
+    padding: $space-1;
+    background-color: #2AFADF; // fallback for old browsers
+    background-image: linear-gradient( 135deg, #2AFADF 10%, #4C83FF 100%);
+
+    @media screen and (min-width: $breakpoint--sm) {
+        padding: $space-2;
+    }
+}
+
+
+// Borders
+// -------------------------------------------------------------------
+.border--full {
+    border-color: $border-color;
+    border-style: $border-style;
+    border-width: $border-width;
+}
+
+.border--top {
+    border-top-color: $border-color;
+    border-top-style: $border-style;
+    border-top-width: $border-width;
+}
+
+.border--right {
+    border-right-color: $border-color;
+    border-right-style: $border-style;
+    border-right-width: $border-width;
+}
+
+.border--bottom {
+    border-bottom-color: $border-color;
+    border-bottom-style: $border-style;
+    border-bottom-width: $border-width;
+}
+
+.border--left {
+    border-left-color: $border-color;
+    border-left-style: $border-style;
+    border-left-width: $border-width;
+}
+
+.border--none { border: 0 }
+
+
+// Radius
+// -------------------------------------------------------------------
+.rounded { border-radius: $border-radius; }
+
+.rounded--top    { border-radius: $border-radius $border-radius 0 0 }
+.rounded--right  { border-radius: 0 $border-radius $border-radius 0 }
+.rounded--bottom { border-radius: 0 0 $border-radius $border-radius }
+.rounded--left   { border-radius: $border-radius 0 0 $border-radius }
+
+.circle { border-radius: 50% }

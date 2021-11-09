@@ -1,0 +1,81 @@
+{
+  "name": "lambda-get-all-github-contributions",
+  "version": "1.0.0-alpha.0",
+  "private": true,
+  "description": "Fetch all GitHub Contributions and save them to a json on S3.",
+  "main": "dist/index.js",
+  "config": {
+    "gitHubToken": "",
+    "awsRegion": "eu-central-1",
+    "awsProfile": "",
+    "bucketName": "lambda--get-all-github-contributions",
+    "localBucketName": "local--get-all-github-contributions",
+    "stackName": "GetAllGitHubContributions",
+    "functionName": "GetAllGitHubContributions",
+    "acmCertificateArn": "",
+    "domainName": "",
+    "fullDomainName": ""
+  },
+  "scripts": {
+    "build": "ts-node scripts/build.ts",
+    "build:production": "NODE_ENV=production ts-node scripts/build.ts",
+    "watch": "ts-node scripts/watch.ts",
+
+    "cf:create": "ts-node scripts/cloudFormationCreateStack.ts",
+    "cf:delete": "ts-node scripts/cloudFormationDeleteStack.ts",
+    "cf:update": "ts-node scripts/cloudFormationUpdateStack.ts",
+
+    "s3:clear": "ts-node scripts/s3ClearBucket.ts",
+    "s3:api": "ts-node scripts/s3UploadApi.ts",
+
+    "lambda:package": "ts-node scripts/lambdaPackage.ts",
+    "lambda:update": "ts-node scripts/lambdaUpdate.ts",
+    "lambda:upload": "ts-node scripts/lambdaUpload.ts",
+
+    "sam:invoke": "ts-node scripts/samInvoke.ts",
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "github-api",
+    "contributions",
+    "graphql",
+    "api",
+    "api-client",
+    "jest",
+    "node",
+    "nodejs",
+    "ts",
+    "tslint",
+    "typescript",
+    "webpack",
+    "webpack4"
+  ],
+  "author": {
+    "name": "Tamino Martinius",
+    "url": "https://github.com/tamino-martinius/"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.7",
+    "@types/aws-sdk": "^2.7.0",
+    "@types/clean-webpack-plugin": "^0.1.2",
+    "@types/jszip": "^3.1.4",
+    "@types/node": "^10.5.1",
+    "@types/uglifyjs-webpack-plugin": "^1.1.0",
+    "@types/webpack": "^4.4.4",
+    "aws-sdk": "^2.266.1",
+    "clean-webpack-plugin": "^0.1.19",
+    "github-graphql-api": "^1.0.4",
+    "jszip": "^3.1.5",
+    "ts-dedent": "^1.0.0",
+    "ts-loader": "^4.4.2",
+    "ts-node": "^7.0.0",
+    "tslint": "^5.10.0",
+    "tslint-config-airbnb": "^5.9.2",
+    "typescript": "^2.9.2",
+    "webpack": "^4.14.0",
+    "webpack-cli": "^3.0.8"
+  }
+}
