@@ -161,7 +161,7 @@ WordPress Theme YayThemes | WordPress Theme Themely
 
 OnePress | PixovaLite
 --- | ---
-[![OnePress](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/OnePress.png)](https://template.fusionsvisual.id/OPL/OnePress) | [![PixovaLite](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/PixovaLite.png)](https://template.fusionsvisual.id/OPL/PixovaLite)
+[![OnePress](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/OnePress.png)](https://template.fusionsvisual.id/OPL/OnePress) | [![PixovaLite](https://raw.githubusercontent.com/World-of-Templates/OnePageLove-Free-Templates/main/zSupportImages/PixovaLite.jpg)](https://template.fusionsvisual.id/OPL/PixovaLite)
 WordPress Theme FameThemes | WordPress Theme Colorlib
 
 Freelancer | DribbbleFolio
