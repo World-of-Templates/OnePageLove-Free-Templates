@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="30px" viewBox="0 0 18 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>thefactory/element/icons/icnthefactory/element/icons/icn-75</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Ressources" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="thefactory/element/icn/inc-artboard" transform="translate(-334.000000, -544.000000)" fill-rule="nonzero" fill="#000000">
+            <path d="M344,571 C344,571.552285 343.552285,572 343,572 C342.447715,572 342,571.552285 342,571 C342,570.447715 342.447715,570 343,570 C343.552285,570 344,570.447715 344,571 Z M341.5,546 L344.5,546 C344.777,546 345,546.223 345,546.5 C345,546.777 344.777,547 344.5,547 L341.5,547 C341.223,547 341,546.777 341,546.5 C341,546.223 341.223,546 341.5,546 Z M335.5,544 C334.678,544 334,544.678 334,545.5 L334,572.5 C334,573.322 334.678,574 335.5,574 L350.5,574 C351.322,574 352,573.322 352,572.5 L352,545.5 C352,544.678 351.322,544 350.5,544 L335.5,544 Z M335.5,545 L350.5,545 C350.786,545 351,545.214 351,545.5 L351,572.5 C351,572.786 350.786,573 350.5,573 L335.5,573 C335.214,573 335,572.786 335,572.5 L335,545.5 C335,545.214 335.214,545 335.5,545 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

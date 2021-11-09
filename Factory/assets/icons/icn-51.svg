@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="30px" viewBox="0 0 26 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>thefactory/element/icons/icnthefactory/element/icons/icn-51</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Ressources" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="thefactory/element/icn/inc-artboard" transform="translate(-1000.000000, -620.000000)" fill-rule="nonzero" fill="#000000">
+            <path d="M1012.515,620 C1012.067,620 1011.841,620.54 1012.163,620.852 L1015.797,624.492 L1012.163,628.132 C1011.673,628.602 1012.398,629.327 1012.868,628.837 L1016.854,624.844 C1017.049,624.649 1017.049,624.334 1016.854,624.139 L1012.868,620.145 C1012.774,620.05 1012.65,620 1012.515,620 Z M1013,624 C1005.826,624 1000,629.826 1000,637 C1000,644.174 1005.826,650 1013,650 C1020.174,650 1026,644.174 1026,637 L1026,636.5 C1026,635.847 1025,635.832 1025,636.5 L1025,637 C1025,643.633 1019.633,649 1013,649 C1006.367,649 1001,643.633 1001,637 C1001,630.367 1006.367,625 1013,625 L1013.5,625 C1014.15,625 1014.173,624 1013.5,624 L1013,624 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

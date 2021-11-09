@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="30px" viewBox="0 0 20 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>thefactory/element/icons/icnthefactory/element/icons/icn-20</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Ressources" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="thefactory/element/icn/inc-artboard" transform="translate(-180.000000, -990.000000)" fill-rule="nonzero" fill="#000000">
+            <path d="M180,990.5 L180,1002.03 C180,1007.537 184.472,1012 190,1012 C195.528,1012 200,1007.536 200,1002.03 L200,990.5 C200,990.238 199.762,990 199.5,990 L195.5,990 C195.238,990 195,990.238 195,990.5 L195,1002 C195,1004.773 192.78,1007 190,1007 C187.22,1007 185,1004.773 185,1002 L185,990.5 C185,990.238 184.762,990 184.5,990 L180.5,990 C180.163,990 180,990.23 180,990.5 Z M181,991 L184,991 L184,1002 C184,1005.31 186.685,1008 190,1008 C193.315,1008 196,1005.31 196,1002 L196,991 L199,991 L199,1002.03 C199,1006.996 194.994,1011 190,1011 C185.006,1011 181,1006.996 181,1002.03 L181,991 Z M180,1015.5 L180,1019.5 C180,1019.762 180.238,1020 180.5,1020 L199.5,1020 C199.762,1020 200,1019.762 200,1019.5 L200,1015.5 C200,1015.238 199.762,1015 199.5,1015 L180.5,1015 C180.186,1015 180,1015.25 180,1015.5 Z M181,1016 L199,1016 L199,1019 L181,1019 L181,1016 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

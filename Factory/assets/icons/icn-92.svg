@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>thefactory/element/icons/icnthefactory/element/icons/icn-92</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Ressources" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="thefactory/element/icn/inc-artboard" transform="translate(-260.000000, -468.000000)" fill-rule="nonzero" fill="#000000">
+            <path d="M275,474 C273.9,474 273,474.9 273,476 C273,477.1 273.9,478 275,478 C276.1,478 277,477.1 277,476 C277,474.9 276.1,474 275,474 Z M275,475 C275.563,475 276,475.437 276,476 C276,476.563 275.563,477 275,477 C274.437,477 274,476.563 274,476 C274,475.437 274.437,475 275,475 Z M275,468 C266.722,468 260,474.722 260,483 C260,491.278 266.722,498 275,498 C283.278,498 290,491.278 290,483 C290,474.722 283.278,468 275,468 Z M275,469 C282.738,469 289,475.262 289,483 C289,490.738 282.738,497 275,497 C267.262,497 261,490.738 261,483 C261,475.262 267.262,469 275,469 Z M275,479 C273.9,479 273,479.9 273,481 L273,490 C273,491.1 273.9,492 275,492 C276.1,492 277,491.1 277,490 L277,481 C277,479.9 276.1,479 275,479 Z M275,480 C275.563,480 276,480.437 276,481 L276,490 C276,490.563 275.563,491 275,491 C274.437,491 274,490.563 274,490 L274,481 C274,480.437 274.437,480 275,480 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

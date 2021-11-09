@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="56px" viewBox="0 0 44 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>thefactory/element/icons/icn-154</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Template" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-364.000000, -3362.000000)" id="Map" fill-rule="nonzero" fill="#000000">
+            <g transform="translate(0.000000, 3056.000000)">
+                <g id="Map-picto" transform="translate(364.000000, 306.000000)">
+                    <g id="Group">
+                        <path d="M21.720782,55.7684424 C21.720782,55.7684424 43.4415639,42.8381532 43.4415639,21.4180254 C43.4394319,9.58943886 33.7153952,0 21.720782,0 C9.72616876,0 0,9.58943886 0,21.4201279 C0,42.8381532 21.720782,55.7684424 21.720782,55.7684424 Z M13.0307636,21.4201279 C13.0307636,16.6895342 16.9195255,12.8524972 21.71865,12.8524972 C26.5177744,12.8524972 30.4065363,16.6895342 30.4065363,21.4201279 C30.4065363,26.1507215 26.5177744,29.9877585 21.71865,29.9877585 C16.9195255,29.9877585 13.0307636,26.1507215 13.0307636,21.4201279 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
